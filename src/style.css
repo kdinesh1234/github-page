@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(188, 195, 183); 
+  }
+  .navbar {
+       height: 70px;
+       line-height: 70px;
+       background-color: rgb(64, 84, 93);
+  }
+  .navbar-brand {
+       font-size: 20px;
+       color: white;
+  }
+  .bg-dark {
+       background-color: rgb(53, 53, 53) !important;
+  }
+ 
+ .form-control{
+     background-color: rgb(53, 53, 53) !important;
+     
+ }
+ ::placeholder {
+     color: #999 !important; 
+   }
+   
